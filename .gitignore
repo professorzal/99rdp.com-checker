@@ -1,0 +1,33 @@
+# runtime artifacts
+proxies.txt
+*_live.txt
+combo.txt
+99rdp_hits.txt
+hits.txt
+output/
+*.log
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+
+# editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# os
+.DS_Store
+Thumbs.db

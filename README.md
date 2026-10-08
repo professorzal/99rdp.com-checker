@@ -8,6 +8,18 @@
 [![curl_cffi](https://img.shields.io/badge/curl__cffi-impersonate-green.svg)](https://github.com/yifeikong/curl_cffi)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 
+<br>
+
+<a href="https://t.me/mr_crkz">
+  <img src="https://img.shields.io/badge/creator-%40mr__crkz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="creator">
+</a>
+<a href="https://t.me/+F4lGYLLn12o0N2Rh">
+  <img src="https://img.shields.io/badge/channel-join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="channel 1">
+</a>
+<a href="https://t.me/professor_zal_projects">
+  <img src="https://img.shields.io/badge/channel-professor__zal__projects-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="channel 2">
+</a>
+
 </div>
 
 ---
@@ -47,8 +59,8 @@ On a valid login it captures:
 ## install
 
 ```bash
-git clone https://github.com/<your-user>/99rdp-checker.git
-cd 99rdp-checker
+git clone https://github.com/professorzal/99rdp.com-checker.git
+cd 99rdp.com-checker
 pip install -r requirements.txt
 ```
 
@@ -132,11 +144,19 @@ a `_live.txt` file is written next to the proxy file listing only the proxies th
 
 ## credits
 
-**creator** — [@mr_crkz](https://t.me/mr_crkz)
+<div align="center">
 
-**channels**
-- https://t.me/+F4lGYLLn12o0N2Rh
-- https://t.me/professor_zal_projects
+<a href="https://t.me/mr_crkz">
+  <img src="https://img.shields.io/badge/creator-%40mr__crkz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="creator">
+</a>
+<a href="https://t.me/+F4lGYLLn12o0N2Rh">
+  <img src="https://img.shields.io/badge/channel-join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="channel 1">
+</a>
+<a href="https://t.me/professor_zal_projects">
+  <img src="https://img.shields.io/badge/channel-professor__zal__projects-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="channel 2">
+</a>
+
+</div>
 
 ---
 
